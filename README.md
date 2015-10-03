@@ -1,2 +1,4 @@
 # hello-world
-Mi primer repositorio en GitHub
+Hi team.
+
+Mi name is Marce Perez Tiburcio.
